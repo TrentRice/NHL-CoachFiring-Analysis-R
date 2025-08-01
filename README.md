@@ -1,4 +1,4 @@
-# NHL Head Coach Firing Analysis
+# Shooting Percentage Luck? An analysis of NHL Coach Firings
 
 </a>
 
