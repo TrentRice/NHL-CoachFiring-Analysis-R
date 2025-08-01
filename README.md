@@ -2,7 +2,7 @@
 
 </a>
 
-## Last season, 25% of coaches in the NHL were fired either during or after the year. This reflects a trend in the NHL as front offices do not have patience to give a coach a long leash, leading to quick decisions. Teams go on cold runs, the blame is put on the coach, and they get fired—simple as that.
+Last season, 25% of coaches in the NHL were fired either during or after the year. This reflects a trend in the NHL as front offices do not have patience to give a coach a long leash, leading to quick decisions. Teams go on cold runs, the blame is put on the coach, and they get fired—simple as that.
 
 This forms the basis of why I decided to conduct the analysis detailed in this article: I wanted to know whether these constant firings were warranted or if bad luck was in play. In hockey analytics, few stats spark as much debate as shooting percentage. Some argue it’s mostly driven by luck—subject to random bounces, hot streaks, and goalie performance—while others believe it reflects real skill, especially when maintained over time. Regardless, shooting percentage (S%) plays a role in how teams are evaluated and, potentially, how head coaches are judged.
 
